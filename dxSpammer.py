@@ -535,7 +535,7 @@ class dxSpammmer():
                             Fore.RESET)
 
 
-    os.system ('title Token Spammer by dx#1234')
+    os.system ('title Token Spammer by dx#1337')
     def sendText(self, screen='main'):
         print(Fore.GREEN, end='')
         print(f'''
